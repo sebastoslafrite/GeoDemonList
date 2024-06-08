@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "951753",
     "records": [
-      
+  {
+            "user": "Glowst",
+            "link": "https://www.youtube.com/watch?v=jXK11mqIMGc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
