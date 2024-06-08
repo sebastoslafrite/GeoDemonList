@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
- 
+  {
+            "user": "Glowst",
+            "link": "https://www.youtube.com/watch?v=SUEe5rFTOSo&t=3s",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
