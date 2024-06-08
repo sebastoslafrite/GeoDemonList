@@ -1,12 +1,12 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "id": 54588072,
+    "name": "INNARDS",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=1RW5CPk6NEY&t",
     "percentToQualify": 56,
-    "password": "Not Copyable",
+    "password": "024624",
     "records": [
         {
             "user": "Sample_Victor_1",
