@@ -8,6 +8,23 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "Glowst",
+            "link": "https://www.youtube.com/watch?v=TzhYqNQCNCQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=vGFxhk06kDs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
