@@ -1,5 +1,5 @@
 {
-    "id": 814678,
+    "id": 19564763,
     "name": "The Furious",
     "author": "Knobbleboy",
     "creators": ["Knobbleboy"],
@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free Copy",
     "records": [
-      
+      {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=Qg5gvYf-ElU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=z5wV13WA8w0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
