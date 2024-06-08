@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=jXK11mqIMGc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=bZ8gHi_7iFA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 360
         }
-    ]
+    ] 
 }
