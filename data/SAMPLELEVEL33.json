@@ -8,6 +8,41 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "Potato",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=FEmTZFPrhqY&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=6",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=E5C_wHX6Uio",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kertaler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
