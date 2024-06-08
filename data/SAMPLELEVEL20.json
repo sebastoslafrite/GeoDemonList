@@ -1,5 +1,5 @@
 {
-    "id": ,
+    "id": 4706930,
     "name": "Supersonic",
     "author": "ZenthicAlpha",
     "creators": ["ZenthicAlpha", "Glittershroom", "Jeyzor", "Sumsar", "Xcy7", "DaddePro", "Evasium", "Ggb0y", "Viprin"],
@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+            {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=HHdWB2yidTY&t=113s",
+            "percent": 100,
+            "hz": 240
+        }
+              {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
