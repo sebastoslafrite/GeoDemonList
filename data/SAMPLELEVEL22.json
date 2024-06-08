@@ -8,6 +8,41 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-      
+       {
+            "user": "Glowst",
+            "link": "https://www.youtube.com/watch?v=L-RU_JWvXQw"
+            "percent": 100,
+            "hz": 240
+        },
+            {
+            "user": "Ecobia",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "drah",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=4a1ux7L5-Tw",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=DDlWb-SI7lg",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
