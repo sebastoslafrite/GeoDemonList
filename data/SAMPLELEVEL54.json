@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "420420",
     "records": [
-      
+      {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kertaler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
