@@ -3,9 +3,10 @@
     "name": "Cataclysm",
     "author": "Ggb0y",
     "creators": ["Ggb0y"],
-    "lb verifier": "Glowst",
+    "verifier": "Glowst",
     "verification": "https://www.youtube.com/watch?v=nmnf10OB4jw&t=16s",
     "password": "666777",
+    
     "records": [
       
     ]
