@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-      
+      {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
