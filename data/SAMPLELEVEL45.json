@@ -1,5 +1,5 @@
 {
-    "id": 814678,
+    "id": 10890011,
     "name": "Windy Circles",
     "author": "KeiAs",
     "creators": ["KeiAs"],
@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "123456",
     "records": [
-      
+      {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=hsKcZkivNcE",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
