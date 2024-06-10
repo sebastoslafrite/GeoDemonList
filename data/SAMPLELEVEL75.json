@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=nNYPz67yYxQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
