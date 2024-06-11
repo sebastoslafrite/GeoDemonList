@@ -1,54 +1,13 @@
 {
-    "id": 7054561,
-    "name": "Poltergeist",
-    "author": "Andromeda GMD",
-    "creators": ["Andromeda GMD"],
+    "id": 82595578,
+    "name": "My Time",
+    "author": "Blueskiii",
+    "creators": ["Blueskiii"],
     "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=hqNRzlAXM5Y&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=8",
+    "verification": "https://www.youtube.com/watch?v=OC1JJHBFz2E",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "Free to Copy",
     "records": [
-      {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=L-RU_JWvXQw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "Ecobia",
-            "link": "none",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Real",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "drah",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "LittleD3m0",
-            "link": "https://www.youtube.com/watch?v=4a1ux7L5-Tw",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "Bez",
-            "link": "https://www.youtube.com/watch?v=DDlWb-SI7lg",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "IronicEvan",
-            "link": "https://www.youtube.com/watch?v=yCsIWitCZVk",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
