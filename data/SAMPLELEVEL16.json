@@ -1,18 +1,13 @@
 {
-    "id": 33405303,
-    "name": "The Secret Box",
-    "author": "Metalface221",
-    "creators": ["Metalface221"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=WZ47LIhCe-g&t=1s",
+    "id": 61529436,
+    "name": "Arcane Ascent",
+    "author": "alkali",
+    "creators": ["alkali", "Wizard", "Ryder", "PotatoBaby", "Escetity", "TurbonicZ", "Isane", "Trianious", "Nyrophene", "Tamori", "Kolby", "Syrenide", "Mashcake", "EyeOfTheStorm", "Crowlley", "RNBW", "Avati", "XeraZox"],
+    "verifier": "kertaler",
+    "verification": "https://www.youtube.com/watch?v=RJ9FkL6rR0k",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "063082",
     "records": [
-       {
-            "user": "Geolunatic",
-            "link": "https://www.youtube.com/watch?v=62kcMUXMwIs",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
