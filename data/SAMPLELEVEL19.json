@@ -1,13 +1,18 @@
 {
-    "id": 9145341,
-    "name": "8o",
+    "id": 5155022,
+    "name": "Acropolis",
     "author": "Zobros",
-    "creators": ["Zobros", "Etzer"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=NKUciuC-RTo",
+    "creators": ["Zobros"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=N6GrKY9r4CE&t=1s",
     "percentToQualify": "100",
-    "password": "147596",
+    "password": "124574",
     "records": [
-      
+      {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=fvMyvtMuPIU&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=7",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
