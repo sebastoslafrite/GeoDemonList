@@ -1,18 +1,13 @@
 {
-    "id": 5155022,
-    "name": "Acropolis",
-    "author": "Zobros",
-    "creators": ["Zobros"],
+    "id": 68662732,
+    "name": "Achlys",
+    "author": "Novaach",
+    "creators": ["Novaach"],
     "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=N6GrKY9r4CE&t=1s",
+    "verification": "https://www.youtube.com/watch?v=vxJB03MIyjY&t=25s",
     "percentToQualify": "100",
-    "password": "124574",
+    "password": "2041",
     "records": [
-      {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=fvMyvtMuPIU&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=7",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
