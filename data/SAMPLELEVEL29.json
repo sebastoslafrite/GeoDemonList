@@ -1,13 +1,18 @@
 {
-    "id": 65496280,
-    "name": "Interstellar Infant",
-    "author": "Fault",
-    "creators": ["Fault"],
+    "id": 73120109,
+    "name": "MultiChromatic",
+    "author": "gmdmann",
+    "creators": ["gmdmann"],
     "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=D2KHB3Ikd4A",
+    "verification": "https://www.youtube.com/watch?v=nojEco0e-PA",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-     
+      {
+            "user": "kertaler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
