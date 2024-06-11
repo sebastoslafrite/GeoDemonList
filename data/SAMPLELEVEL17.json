@@ -1,13 +1,18 @@
 {
-    "id": 68662732,
-    "name": "Achlys",
-    "author": "Novaach",
-    "creators": ["Novaach"],
+    "id": 33405303,
+    "name": "The Secret Box",
+    "author": "Metalface221",
+    "creators": ["Metalface221"],
     "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=vxJB03MIyjY&t=25s",
+    "verification": "https://www.youtube.com/watch?v=WZ47LIhCe-g&t=1s",
     "percentToQualify": "100",
-    "password": "2041",
+    "password": "Free To Copy",
     "records": [
-      
+       {
+            "user": "Geolunatic",
+            "link": "https://www.youtube.com/watch?v=62kcMUXMwIs",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
