@@ -1,13 +1,24 @@
 {
-    "id": 82595578,
-    "name": "My Time",
-    "author": "Blueskiii",
-    "creators": ["Blueskiii"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=OC1JJHBFz2E",
+    "id": 4706930,
+    "name": "Supersonic",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha", "Glittershroom", "Jeyzor", "Sumsar", "Xcy7", "DaddePro", "Evasium", "Ggb0y", "Viprin"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=KUItyH1A6s4&t=35s",
     "percentToQualify": "100",
-    "password": "Free to Copy",
+    "password": "Free To Copy",
     "records": [
-      
+            {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=HHdWB2yidTY&t=113s",
+            "percent": 100,
+            "hz": 240
+        },
+              {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
