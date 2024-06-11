@@ -10,6 +10,11 @@
     "password": "666777",
     
     "records": [
-      
+      {
+            "user": "IronicEvan",
+            "link": "https://www.youtube.com/watch?v=XMA8_QnN7QI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
