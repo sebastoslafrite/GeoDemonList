@@ -1,30 +1,18 @@
 {
-    "id": 86565813,
-    "name": "Fishbass",
-    "author": "Fishbass",
-    "creators": ["Fishbass", "hexi", "cynir", "ryli", "valentine", "immaxx1", "nightning", "pocke"],
-    "verifier": "Real",
-    "verification": "https://www.youtube.com/watch?v=MYmLcPYU9Uk",
+    "id": 10642167,
+    "name": "Forsaken Neon v2",
+    "author": "VERSU5",
+    "creators": ["VERSU5"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=23_N0mecYfA",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "192637",
     "records": [
       {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=TzhYqNQCNCQ",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "darthmauve",
+            "user": "GeoLunatic",
             "link": "none",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "LittleD3m0",
-            "link": "https://www.youtube.com/watch?v=vGFxhk06kDs",
-            "percent": 100,
-            "hz": 144
         }
     ]
 }
