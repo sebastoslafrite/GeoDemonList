@@ -1,18 +1,13 @@
 {
-    "id": 62923992,
-    "name": "Sparkling Hope",
-    "author": "Vadi",
-    "creators": ["Vadi"],
+    "id": 6988264,
+    "name": "Astronaut 13 (Minesap)",
+    "author": "Minesap",
+    "creators": ["Minesap"],
     "verifier": "Bez",
-    "verification": "https://www.youtube.com/watch?v=DO1yY9dq6VU",
+    "verification": "https://www.youtube.com/watch?v=ylOAimPsF9w",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "No Copy",
     "records": [
-       {
-            "user": "GeoLunatic",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
