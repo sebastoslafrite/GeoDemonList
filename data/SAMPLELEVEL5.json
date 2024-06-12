@@ -1,18 +1,13 @@
 {
-    "id": 20761188,
-    "name": "Allegiance",
-    "author": "nikroplays",
-    "creators": ["nikroplays"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=3QEmmmBmwAk",
+    "id": 814678,
+    "name": "follow me",
+    "author": "TheRealXFuture",
+    "creators": ["TheRealXFuture"],
+    "verifier": "Geolunatic",
+    "verification": "https://www.youtube.com/watch?v=DYd0VQx1NCc",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "Free Copy",
     "records": [
-        {
-            "user": "darthmauve",
-            "link": "https://www.youtube.com/watch?v=f-jtHugl5KE",
-            "percent": 100,
-            "hz": 360
-        }
+      
     ]
 }
