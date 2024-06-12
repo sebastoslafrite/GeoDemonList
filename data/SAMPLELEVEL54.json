@@ -1,21 +1,15 @@
 {
-    "id": 29443338,
-    "name": "TOE III",
-    "author": "Manix648",
-    "creators": ["Manix648"],
+    "id": 1299298,
+    "name": "Deadly ClubStep",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
     "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=nEpBUQE9u-s",
+    "verification": "https://www.youtube.com/watch?v=u4IScKPV14U",
     "percentToQualify": "100",
-    "password": "420420",
+    "password": "No Copy",
     "records": [
       {
             "user": "darthmauve",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "kertaler",
             "link": "none",
             "percent": 100,
             "hz": 240
