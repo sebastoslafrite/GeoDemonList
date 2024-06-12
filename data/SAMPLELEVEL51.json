@@ -1,13 +1,18 @@
 {
-    "id": 14880818,
-    "name": "Desert Temple",
-    "author": "Michigun",
-    "creators": ["Michigun", "XLectricVenom", "Bil"],
+    "id": 78407103,
+    "name": "Sweet Summer",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
     "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=0hGakYwL6Os",
+    "verification": "https://www.youtube.com/watch?v=6_stzCGMHaM",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "kertaler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
