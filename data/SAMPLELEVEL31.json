@@ -5,6 +5,9 @@
     "creators": ["DavJT"],
     "verifier": "Potato",
     "verification": "https://www.youtube.com/watch?v=eGPNEaZV6cc&t=42s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
 {
             "user": "GeoLunatic",
             "link": "https://www.youtube.com/watch?v=WtfHMG_mcTI&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=5",
@@ -16,4 +19,5 @@
             "link": "https://www.youtube.com/watch?v=ziKiqQvwjGY",
             "percent": 100,
             "hz": 240
-        }
+         ]
+    }
