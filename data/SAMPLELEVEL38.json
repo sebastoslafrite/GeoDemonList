@@ -1,16 +1,28 @@
 {
-    "id": 4545425,
-    "name": "Stalemate",
-    "author": "Nox",
-    "creators": ["Nox"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=dfO5P512taA&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=9",
+    "id": 10312917,
+    "name": "Sharp Minor",
+    "author": "Giron",
+    "creators": ["Giron", "Sonic GD"],
+    "verifier": "Real",
+    "verification": "https://www.youtube.com/watch?v=o7Y0d8nrWfI",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "123789",
     "records": [
       {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=g3WVvvw7VEs",
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=iQq5emAH3YQ&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=3",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=7IuOyomD3S8",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=jy2J8qfrVT8",
             "percent": 100,
             "hz": 240
         }
