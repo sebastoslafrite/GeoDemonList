@@ -1,13 +1,18 @@
 {
-    "id": 2891681,
-    "name": "Shadow Temple",
-    "author": "Michigun",
-    "creators": ["Michigun"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=ks5351sonfA&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=9",
+    "id": 14960319,
+    "name": "Paracosm XII",
+    "author": "FaKob",
+    "creators": ["FaKob"],
+    "verifier": "Bez",
+    "verification": "https://www.youtube.com/watch?v=-R9AYv_0XxY",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "123321",
     "records": [
-      
+      {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=mqXclBsA7oY",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
