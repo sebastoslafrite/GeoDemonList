@@ -1,28 +1,22 @@
 {
-    "id": 94610370,
-    "name": "Ring Trick",
-    "author": "Zoroa",
-    "creators": ["Zoroa"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=PXdjU-_ojFw&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=5",
+    "id": 19564763,
+    "name": "The Furious",
+    "author": "Knobbleboy",
+    "creators": ["Knobbleboy"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=BmRbvsYKPAk",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "Free Copy",
     "records": [
       {
-            "user": "darthmauve",
-            "link": "none",
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=Qg5gvYf-ElU",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "LittleD3m0",
-            "link": "https://www.youtube.com/watch?v=UEV-Yl1PSjA",
-            "percent": 100,
-            "hz": 144
-        },
-        {
-            "user": "kertaler",
-            "link": "none",
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=z5wV13WA8w0",
             "percent": 100,
             "hz": 240
         }
