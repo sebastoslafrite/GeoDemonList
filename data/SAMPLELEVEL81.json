@@ -1,46 +1,64 @@
 {
-    "id": 6939821,
-    "name": "Jawbreaker",
-    "author": "ZenthicAlpha",
-    "creators": ["ZenthicAlpha"],
+    "id": 4284013,
+    "name": "Nine Circles",
+    "author": "Zobros",
+    "creators": ["Zobros"],
     "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=5r3VwqMw6Ng",
+    "verification": "https://www.youtube.com/watch?v=dOdPoU1ncOc",
     "percentToQualify": "100",
-    "password": "696969",
+    "password": "Free To Copy",
     "records": [
-      {
+       {
             "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=Uq8nzkj6-Wk",
+            "link": "https://www.youtube.com/watch?v=S7YfT7BwZsQ&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=20",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Ecobia",
+            "link": "none",
             "percent": 100,
             "hz": 240
         },
-    {
+         {
             "user": "Real",
             "link": "none",
             "percent": 100,
             "hz": 240
         },
-    {
+         {
             "user": "LittleD3m0",
             "link": "none",
             "percent": 100,
-            "hz": 240
+            "hz": 60
         },
-    {
+         {
             "user": "darthmauve",
             "link": "none",
             "percent": 100,
             "hz": 240
         },
-    {
+         {
             "user": "Bez",
-            "link": "https://www.youtube.com/watch?v=rJSrNcw7A2w",
+            "link": "https://www.youtube.com/watch?v=avB-QL7QoGs",
             "percent": 100,
             "hz": 240
         },
-         {
+        {
+            "user": "sebastoslafrite",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mylo Alt 1",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
             "user": "IronicEvan",
-            "link": "https://www.youtube.com/watch?v=rJSrNcw7A2w",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
