@@ -2,7 +2,7 @@
     "id": 86565813,
     "name": "Fishbass",
     "author": "Fishbass",
-    "creators": ["Fishbass", "hexi", "cynir", "ryli", "valentine", "immaxx1", "nightning", "pocke"],
+    "creators": ["fishbass", "hexi", "cynir", "ryli", "valentine", "immaxx1", "nightning", "pocke"],
     "verifier": "Real",
     "verification": "https://www.youtube.com/watch?v=MYmLcPYU9Uk",
     "percentToQualify": "100",
@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=vGFxhk06kDs",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=IkOYiaJtZNs",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
