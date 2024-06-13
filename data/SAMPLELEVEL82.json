@@ -1,13 +1,48 @@
 {
-    "id": 32145604,
-    "name": "Mission MADISON",
-    "author": "Agent JDM",
-    "creators": ["AgentJDM"],
-    "verifier": "kertaler",
-    "verification": "https://www.youtube.com/watch?v=Eq0V8ilJ7kM",
+    "id": 6939821,
+    "name": "Jawbreaker",
+    "author": "ZenthicAlpha",
+    "creators": ["ZenthicAlpha"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=5r3VwqMw6Ng",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "696969",
     "records": [
-      
+      {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=Uq8nzkj6-Wk",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=rJSrNcw7A2w",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "IronicEvan",
+            "link": "https://www.youtube.com/watch?v=rJSrNcw7A2w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
