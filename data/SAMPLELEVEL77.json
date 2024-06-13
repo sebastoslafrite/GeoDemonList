@@ -1,13 +1,18 @@
 {
-    "id": 32145604,
-    "name": "Mission MADISON",
-    "author": "Agent JDM",
-    "creators": ["AgentJDM"],
-    "verifier": "kertaler",
-    "verification": "https://www.youtube.com/watch?v=Eq0V8ilJ7kM",
+    "id": 39495014,
+    "name": "Despacito Circles",
+    "author": "Terron",
+    "creators": ["Terron", "Darwin", "Kips", "Luqualizer"],
+    "verifier": "GeoLunatic",
+    "verification": "https://www.youtube.com/watch?v=yYeiMvDGvQk",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=nNYPz67yYxQ",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
