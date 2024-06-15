@@ -8,6 +8,23 @@
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-      
+      {
+            "user": "Glowst",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ecobia",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
