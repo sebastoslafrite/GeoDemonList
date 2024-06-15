@@ -25,6 +25,12 @@
             "link": "none",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=psfyHbEb9y8",
+            "percent": 100,
+            "hz": 360
         }
     ] 
 }
