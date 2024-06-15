@@ -1,13 +1,24 @@
 {
-    "id": 32145604,
-    "name": "Mission MADISON",
-    "author": "Agent JDM",
-    "creators": ["AgentJDM"],
-    "verifier": "kertaler",
-    "verification": "https://www.youtube.com/watch?v=Eq0V8ilJ7kM",
+    "id": 4727649,
+    "name": "Lava Temple",
+    "author": "Michigun",
+    "creators": ["Michigun", "Ggb0y"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=kne8_e-ORqs&t=30s",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "No Copy",
     "records": [
-      
+       {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=usde4igQBiw",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Mylo Alt 1",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
