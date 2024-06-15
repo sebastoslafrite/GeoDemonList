@@ -8,6 +8,23 @@
     "percentToQualify": "100",
     "password": "666666",
     "records": [
-      
+       {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=uguNv1-ZIFg",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "IronicEvan",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
