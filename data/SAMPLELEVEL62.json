@@ -1,24 +1,13 @@
 {
-    "id": 62250556,
-    "name": "Cragley Chamber",
-    "author": "MythicalTG",
-    "creators": ["MythicalTG"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=h7uRmUP-gKc",
+    "id": 3013070,
+    "name": "ToE II v2",
+    "author": "IIINePtunEIII",
+    "creators": ["IIINePtunEIII"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=TItiFtWAsgQ",
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
-      {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=NBmR6KnXlj8",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "jak",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
