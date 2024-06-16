@@ -1,24 +1,13 @@
 {
-    "id": 10890011,
-    "name": "Windy Circles",
-    "author": "KeiAs",
-    "creators": ["KeiAs"],
-    "verifier": "Real",
-    "verification": "https://www.youtube.com/watch?v=Ps1g5vEckpM",
+    "id": 18162353,
+    "name": "Theory of ClubLocked",
+    "author": "Zust",
+    "creators": ["Zust"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=VRxc_yrjR-s",
     "percentToQualify": "100",
-    "password": "123456",
+    "password": "1337",
     "records": [
-      {
-            "user": "Bez",
-            "link": "https://www.youtube.com/watch?v=hsKcZkivNcE",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=0gsIGFPVm3w",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
