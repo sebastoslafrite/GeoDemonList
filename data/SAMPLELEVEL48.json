@@ -1,13 +1,36 @@
 {
-    "id": 814678,
-    "name": "Headrush",
-    "author": "Toxic GD",
-    "creators": ["Toxic GD"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=g_iFL3i7jiw&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=2",
+    "id": 40945673,
+    "name": "CraZy",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=g_MP6BENHEs",
     "percentToQualify": "100",
-    "password": "159357",
+    "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=fR1yMMxDmdk&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=18",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Potato",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=JVWikdwky1M",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
