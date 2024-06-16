@@ -1,13 +1,25 @@
-{
-    "id": 38445559,
-    "name": "ThermoDynamix",
-    "author": "flash",
-    "creators": ["flash"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=X3tBsX2NN4s&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=7",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
-      
+    {
+        "id": 10890011,
+        "name": "Windy Circles",
+        "author": "KeiAs",
+        "creators": ["KeiAs"],
+        "verifier": "Real",
+        "verification": "https://www.youtube.com/watch?v=Ps1g5vEckpM",
+        "percentToQualify": "100",
+        "password": "123456",
+        "records": [
+
+      {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=hsKcZkivNcE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=0gsIGFPVm3w",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
