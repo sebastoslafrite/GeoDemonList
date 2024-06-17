@@ -1,13 +1,30 @@
 {
-    "id": 80944885,
-    "name": "stamina",
-    "author": "drane",
-    "creators": ["drane"],
-    "verifier": "IronicEvan",
-    "verification": "https://www.youtube.com/watch?v=xuNXSZPffig",
+    "id": 2842129,
+    "name": "Fire Temple",
+    "author": "Michigun",
+    "creators": ["Michigun"],
+    "verifier": "GeoLunatic",
+    "verification": "https://www.youtube.com/watch?v=lvy9cU1H_Zw&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=15",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "No Copy",
     "records": [
-      
+      {
+            "user": "Glowst",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ecobia",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
