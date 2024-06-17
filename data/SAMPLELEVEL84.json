@@ -1,18 +1,12 @@
 {
-    "id": 38398923,
-    "name": "Nowise",
-    "author": "Darwin",
-    "creators": ["Darwin"],
-    "verifier": "kertaler",
-    "verification": "https://www.youtube.com/watch?v=zojfnRsKBWc",
+    "id": 9682304,
+    "name": "Golden Hope",
+    "author": "Terron",
+    "creators": ["Terron"],
+    "verifier": "GeoLunatic",
+    "verification": "https://www.youtube.com/watch?v=pTDdK41WIec",
     "percentToQualify": "100",
-    "password": "425069",
+    "password": "Free To Copy",
     "records": [
-      {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=JDA1giPFtwE",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
