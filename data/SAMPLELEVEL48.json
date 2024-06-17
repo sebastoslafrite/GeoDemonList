@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=JVWikdwky1M",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "IronicEvan",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
