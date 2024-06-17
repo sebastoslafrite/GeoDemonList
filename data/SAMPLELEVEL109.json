@@ -1,1 +1,35 @@
-
+{
+    "id": 25706351,
+    "name": "HeLL",
+    "author": "Serponge",
+    "creators": ["Serponge"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=gTtsrzNUJM8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=iwx8ZD0qwYQ&t=10s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kertaler",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mylo Alt 1",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
