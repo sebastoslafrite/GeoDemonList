@@ -1,16 +1,46 @@
-{
-    "id": 8890164,
-    "name": "SHUTDOWN",
-    "author": "RadiationV2",
-    "creators": ["RadiationV2"],
-    "verifier": "kertaler",
-    "verification": "https://www.youtube.com/watch?v=xTlw7IQq2PA",
+    {
+    "id": 4957691,
+    "name": "Windy Landscape",
+    "author": "WOOGI1411",
+    "creators": ["WOOGI1411"],
+    "verifier": "Glowst",
+    "verification": "https://www.youtube.com/watch?v=hTX0Ch5bgMw",
     "percentToQualify": "100",
-    "password": "Free Copy",
+    "password": "Free To Copy",
     "records": [
       {
-            "user": "Geolunatic",
-            "link": "https://www.youtube.com/watch?v=3UaL5Zn5KFg",
+            "user": "Potato",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=FEmTZFPrhqY&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=6",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "https://www.youtube.com/watch?v=E5C_wHX6Uio",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kertaler",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
