@@ -1,13 +1,30 @@
 {
-    "id": 102343052,
-    "name": "Space Invaders",
-    "author": "DeeperSpace",
-    "creators": ["Manix648", "Lazerblitz"],
-    "verifier": "darthmauve",
-    "verification": "https://www.youtube.com/watch?v=mUNDM2q7u0s",
+    "id": 7203561,
+    "name": "Classical",
+    "author": "Hakkou",
+    "creators": ["Hakkou"],
+    "verifier": "GeoLunatic",
+    "verification": "https://www.youtube.com/watch?v=tmVHoey9pUs&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=29",
     "percentToQualify": "100",
-    "password": "Free To Copy",
+    "password": "666666",
     "records": [
-      
+       {
+            "user": "Real",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Bez",
+            "link": "https://www.youtube.com/watch?v=uguNv1-ZIFg",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "IronicEvan",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
