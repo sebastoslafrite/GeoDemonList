@@ -1,18 +1,13 @@
 {
-    "id": 15427055,
-    "name": "Megalovania",
-    "author": "EternaswipVMAX",
-    "creators": ["EternaswipVMAX"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=BQwJK8Yw7CI",
+    "id": 61034576,
+    "name": "Shitty The Golden",
+    "author": "AcropolisBoy",
+    "creators": ["AcropolisBoy"],
+    "verifier": "Mylo Alt 1",
+    "verification": "https://www.youtube.com/watch?v=M2ywbwgOfEY",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      {
-            "user": "Ecobia",
-            "link": "None",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
