@@ -1,16 +1,28 @@
 {
-    "id": 6300721,
-    "name": "Forsaken Neon",
-    "author": "Zobros",
-    "creators": ["Zobros", "TriAxis"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=ARjiOD0udsY",
+    "id": 105266892,
+    "name": "Correction",
+    "author": "Mylo Alt 1",
+    "creators": ["Mylo Alt 1"],
+    "verifier": "Mylo Alt 1",
+    "verification": "https://www.youtube.com/watch?v=Cx627Oko15k",
     "percentToQualify": "100",
-    "password": "123789",
+    "password": "Free To Copy",
     "records": [
+      {
+            "user": "Glowst",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
         {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=AQ4PUYa1ycA&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=12",
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
