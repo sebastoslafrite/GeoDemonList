@@ -1,18 +1,13 @@
 {
-    "id": 1864168,
-    "name": "Water Temple",
-    "author": "Michigun",
-    "creators": ["Michigun"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=hG6bUohoNlI",
+    "id": 90408422,
+    "name": "Solar Wind",
+    "author": "xWillow",
+    "creators": ["xWillow"],
+    "verifier": "Mylo Alt 1",
+    "verification": "https://www.youtube.com/watch?v=o1xQ5XWeifk",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "",
     "records": [
-       {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=UJcLPatXvHw&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=19",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
