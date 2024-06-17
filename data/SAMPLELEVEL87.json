@@ -1,30 +1,13 @@
 {
-    "id": 7203561,
-    "name": "Classical",
-    "author": "Hakkou",
-    "creators": ["Hakkou"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=tmVHoey9pUs&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=29",
+    "id": 36745142,
+    "name": "Darkness Keeper",
+    "author": "AbstractDark",
+    "creators": ["AbstractDark"],
+    "verifier": "kertaler",
+    "verification": "https://www.youtube.com/watch?v=tOviFwBhFFU",
     "percentToQualify": "100",
-    "password": "666666",
+    "password": "455880",
     "records": [
-       {
-            "user": "Real",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "Bez",
-            "link": "https://www.youtube.com/watch?v=uguNv1-ZIFg",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "IronicEvan",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
-        }
+      
     ]
 }
