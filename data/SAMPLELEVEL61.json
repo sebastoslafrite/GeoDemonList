@@ -1,21 +1,27 @@
 {
-    "id": 62250556,
-    "name": "Cragley Chamber",
-    "author": "MythicalTG",
-    "creators": ["MythicalTG"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=h7uRmUP-gKc",
+    "id": 44062068,
+    "name": "Future Funk",
+    "author": "JohnathanGD",
+    "creators": ["JohnathanGD"],
+    "verifier": "LittleD3m0",
+    "verification": "https://www.youtube.com/watch?v=LUORMA2NvmM",
     "percentToQualify": "100",
-    "password": "No Copy",
+    "password": "do this later",
     "records": [
-      {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=NBmR6KnXlj8",
+        {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=7010agtbVrc",
             "percent": 100,
             "hz": 240
         },
         {
-            "user": "jak",
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=rjOVA8lMbdQ&list=PLrCuRGifIfaIv972mtjqlwzZeUcIc8B21&index=4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
             "link": "none",
             "percent": 100,
             "hz": 240
