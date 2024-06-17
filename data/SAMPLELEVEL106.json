@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+       {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
