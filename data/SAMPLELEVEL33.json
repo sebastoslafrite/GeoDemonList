@@ -1,36 +1,13 @@
 {
-    "id": 56568010,
-    "name": "Magma Bound",
-    "author": "ScorchVX",
-    "creators": ["ScorchVX"],
+    "id": 104905279,
+    "name": "Craglier Chamber",
+    "author": "jak",
+    "creators": ["jak"],
     "verifier": "jak",
-    "verification": "https://www.youtube.com/watch?v=B3C6XVjpSJ4",
+    "verification": "https://www.youtube.com/watch?v=U_LlX4t0A9I",
     "percentToQualify": "100",
-    "password": "951753",
+    "password": "Free To Copy",
     "records": [
-  {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=jXK11mqIMGc",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=bZ8gHi_7iFA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "darthmauve",
-            "link": "none",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "LittleD3m0",
-            "link": "https://www.youtube.com/watch?v=psfyHbEb9y8",
-            "percent": 100,
-            "hz": 360
-        }
-    ] 
+
+    ]
 }
