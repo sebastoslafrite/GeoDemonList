@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=4fGyphViuKo",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
