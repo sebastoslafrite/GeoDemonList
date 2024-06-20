@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-
+ {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=jkygrF16_GQ",
+            "percent": 100,
+            "hz": 240
+        },
+         {
+            "user": "Mylo Alt 1",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
