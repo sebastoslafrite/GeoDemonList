@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "002369",
     "records": [
-
+{
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
