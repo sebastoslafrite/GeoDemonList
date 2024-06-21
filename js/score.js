@@ -32,7 +32,7 @@ export function score(rank, percent, minPercent) {
         score = (212.61*Math.pow(1.036, (1-rank))+25.071);
     }
     if (rank > 55) {
-        score = (56.191*Math.pow(2, ((54.147-(rank+3.2))*((LN(50)/(99)))))+6.273);
+        score = (56.191*Math.pow(2, ((54.147-(rank+3.2))*((Math.log(50)/(99)))))+6.273);
      }
     
     //Formula from the template
