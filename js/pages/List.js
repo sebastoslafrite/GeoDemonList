@@ -118,7 +118,7 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
-                        More info can be found here <a>https://docs.google.com/spreadsheets/d/1tLR6MfQGS4whr19gxkULwkOTzr3i7nW8x9p3Tp9b8NE/edit?gid=0#gid=0</a>
+                        More info can be found <a href="https://docs.google.com/spreadsheets/d/1tLR6MfQGS4whr19gxkULwkOTzr3i7nW8x9p3Tp9b8NE/edit?gid=0#gid=0">here</a>
                     </p>
                     
                 </div>
