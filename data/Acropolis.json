@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=fvMyvtMuPIU&list=PLrCuRGifIfaKrU2GZd_X0FSbqMS-hvEJk&index=7",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "kertaler",
+            "link": "no video",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
