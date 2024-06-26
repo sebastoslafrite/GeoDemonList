@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks. For now, this also includes the usage of Click Between Frames. (however, FPS bypass is allowed, up to 360fps pre 2.2 and there is no fps cap for 2.2. Physics bypass is not allowed)
+                        Achieved the record without using hacks. (however, FPS bypass is allowed, up to 360fps pre 2.2 and no fps cap for 2.2. Physics bypass is not allowed, but CBF is)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
