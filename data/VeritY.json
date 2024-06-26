@@ -8,6 +8,23 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-
+{
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=bQWAG_hc18Y&t=23s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LittleD3m0",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "sebastoslafrite",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
