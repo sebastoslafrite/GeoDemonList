@@ -43,6 +43,12 @@
             "link": "https://www.youtube.com/watch?v=rJSrNcw7A2w",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "Potato",
+            "link": "None",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
