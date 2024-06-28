@@ -32,5 +32,11 @@
             "percent": 100,
             "hz": 240
         }
+         {
+            "user": "Bez",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
