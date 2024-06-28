@@ -25,6 +25,12 @@
             "link": "none",
             "percent": 100,
             "hz": 240
+        },
+         {
+            "user": "darthmauve",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
