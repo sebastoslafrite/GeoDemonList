@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=Kji9Ka7Akuw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "jak",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
