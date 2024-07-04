@@ -25,6 +25,12 @@
             "link": "none",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Mylo Alt 1",
+            "link": "https://www.youtube.com/watch?v=qgVWXAOishg",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
