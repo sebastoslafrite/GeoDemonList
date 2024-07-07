@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "doggogoesyoink",
+            "link": "https://www.youtube.com/watch?v=U9lQINzkZNw",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
