@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "063082",
     "records": [
-      
+      {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=nueWsDNBfZc",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
