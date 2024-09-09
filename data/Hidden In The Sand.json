@@ -8,6 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+      {
+            "user": "darthmauve",
+            "link": "https://www.youtube.com/watch?v=e_kPOOGiQ9Q",
+            "percent": 100,
+            "hz": 240
+       }
     ]
 }
