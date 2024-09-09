@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=f-jtHugl5KE",
             "percent": 100,
             "hz": 360
+        },
+    {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=fPZlbDefOEo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
