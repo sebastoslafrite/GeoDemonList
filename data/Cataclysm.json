@@ -8,11 +8,28 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "password": "666777",
-    
     "records": [
       {
             "user": "IronicEvan",
             "link": "https://www.youtube.com/watch?v=XMA8_QnN7QI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "darthmauve",
+            "link": "https://www.youtube.com/watch?v=b0DSfeqaOl4",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "Shotgun",
+            "link": "https://www.youtube.com/watch?v=il5vTD4yDKs",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "GeoLunatic",
+            "link": "https://www.youtube.com/watch?v=GlUM-pSHLcE&t=1s",
             "percent": 100,
             "hz": 240
         }
