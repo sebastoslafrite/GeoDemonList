@@ -13,7 +13,13 @@
             "link": "https://www.youtube.com/watch?v=DoD-Y-WFQ2A&t=4s",
             "percent": 100,
             "hz": 240
-        }
+        },
+    {
+            "user": "darthmauve",
+            "link": "https://www.youtube.com/watch?v=OTt65uIVokQ",
+            "percent": 100,
+            "hz": 240
+       }
       
     ]
 }
