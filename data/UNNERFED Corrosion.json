@@ -8,6 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        
+     {
+            "user": "jak",
+            "link": "https://www.youtube.com/watch?v=mfKw1ddFons",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "darthmauve",
+            "link": "https://www.youtube.com/watch?v=g-PkJCvSJok",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
