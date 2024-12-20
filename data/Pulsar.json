@@ -1,0 +1,18 @@
+{
+    "id": 36099108,
+    "name": "Pulsar",
+    "author": "iIAkariIi",
+    "creators": ["iIAkariIi", "zhander"],
+    "verifier": "iIAkariIi",
+    "verification": "https://www.youtube.com/watch?v=cdRkBfZvZy4",
+    "percentToQualify": "100",
+    "password": "167428",
+    "records": [
+  {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
