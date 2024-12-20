@@ -3,32 +3,14 @@
     "name": "Azurite",
     "author": "Sillow",
     "creators": ["Sillow"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=cCuvhMYaH4c&t=6s",
+    "verifier": "Sillow",
+    "verification": "",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      {
-            "user": "Kertaler",
-            "link": "https://www.youtube.com/watch?v=wBgY14FlpbU",
-            "percent": 100,
-            "hz": 240
-        },
     {
-            "user": "darthmauve",
-            "link": "https://www.youtube.com/watch?v=TOvFrePgLNs",
-            "percent": 100,
-            "hz": 240
-        },
-    {
-            "user": "Shotgun",
-            "link": "https://www.youtube.com/watch?v=VHM5iaC_TcY",
-            "percent": 100,
-            "hz": 240
-        },
-    {
-            "user": "johngool",
-            "link": "https://www.youtube.com/watch?v=_v8hSQ8inBM&t=67s",
+            "user": "GeoLunatic",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
