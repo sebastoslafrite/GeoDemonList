@@ -1,0 +1,18 @@
+{
+    "id": 94547076,
+    "name": "Psychedelic Circles",
+    "author": "spuddles",
+    "creators": ["spuddles"],
+    "verifier": "spuddles",
+    "verification": "https://www.youtube.com/watch?v=OpaLosFcYxQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "Geolunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
