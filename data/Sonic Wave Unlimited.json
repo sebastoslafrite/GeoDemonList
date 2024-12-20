@@ -2,12 +2,17 @@
     "id": 102265892,
     "name": "Sonic Wave Unlimited",
     "author": "zNotNinja",
-    "creators": ["zNotNinja"],
-    "verifier": "Bez",
-    "verification": "https://www.youtube.com/watch?v=n8_sX6Ag1hQ",
+    "creators": ["zNotNinja", "EggBasketUWU", "amino9", "fwefwe", "Watchpiggy", "web", "zilucy", "foody", "moneyman22", "cyver", "joefortnite666", "tuesdx12", "boomblox", "temoofgod"],
+    "verifier": "zilucy",
+    "verification": "https://www.youtube.com/watch?v=TerdCQ2o6r4",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      
+       {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
