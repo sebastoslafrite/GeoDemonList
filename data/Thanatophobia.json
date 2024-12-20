@@ -2,15 +2,15 @@
     "id": 62809982,
     "name": "Thanatophobia",
     "author": "ARtu",
-    "creators": ["ARtu"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=nrbE2_G9mX0",
+    "creators": ["ARtu", "Ka1ns", "Itami", "Zipixbox", "guleshelt", "Realvet", "voltex", "hyp3rlink", "Maitnary", "Chaeyeon", "Naimnaro"],
+    "verifier": "Syndrome",
+    "verification": "https://www.youtube.com/watch?v=A0JkCaVmpn8",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
   {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=SUEe5rFTOSo&t=3s",
+            "user": "GeoLunatic",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
