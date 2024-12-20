@@ -1,0 +1,18 @@
+{
+    "id": 15122517,
+    "name": "Lit Fuse",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verifier": "KrmaL",
+    "verification": "https://www.youtube.com/watch?v=Zp4-JV_6QwQ&t=46s",
+    "percentToQualify": "100",
+    "password": "000002",
+    "records": [
+        {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
