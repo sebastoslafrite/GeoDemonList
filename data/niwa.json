@@ -2,21 +2,15 @@
     "id": 87425029,
     "name": "niwa",
     "author": "Teno",
-    "creators": ["Teno", "MrGM", "Aranda", "Titoalper", "KrazyGFX", "BeClan", "Asu", "Pedro", "Peng", "Blaze", "Genoxide"],
-    "verifier": "darthmauve",
-    "verification": "https://www.youtube.com/watch?v=EtDRZlfxTHQ",
+    "creators": ["Teno", "Mrgm", "Aranda", "Titoalper", "KrazyGFX", "BeClan", "Asuith", "Pedro", "Peng", "Blaze", "Genoxide"],
+    "verifier": "nicor77",
+    "verification": "https://www.youtube.com/watch?v=vegDZr7jh-M",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
       {
-            "user": "doggogoesyoink",
-            "link": "https://www.youtube.com/watch?v=U9lQINzkZNw",
-            "percent": 100,
-            "hz": 240
-        },
-    {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=pOJU2419-3Y",
+            "user": "GeoLunatic",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
