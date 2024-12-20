@@ -1,0 +1,18 @@
+{
+    "id": 73725400,
+    "name": "CraZy III",
+    "author": "DavJT",
+    "creators": ["DavJT"],
+    "verifier": "Nexus",
+    "verification": "https://www.youtube.com/watch?v=1ynspvn8KSs",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
