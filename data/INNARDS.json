@@ -3,20 +3,14 @@
     "name": "INNARDS",
     "author": "Kaito",
     "creators": ["Kaito", "Cinci"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=1RW5CPk6NEY&t",
+    "verifier": "Cinci",
+    "verification": "https://www.youtube.com/watch?v=r2BI-N6rcas",
     "percentToQualify": 100,
     "password": "024624",
     "records": [
         {
             "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=A05dFCCwu7k&t=1s",
-            "percent": 100,
-            "hz": 240
-       },
-    {
-            "user": "darthmauve",
-            "link": "https://www.youtube.com/watch?v=oQq36aq_Gpc",
+            "link": "none",
             "percent": 100,
             "hz": 240
        }
