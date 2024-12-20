@@ -3,14 +3,14 @@
     "name": "ICE Carbon Diablo X",
     "author": "Roadbose",
     "creators": ["Roadbose"],
-    "verifier": "Glowst",
-    "verification": "https://www.youtube.com/watch?v=M1oGeJEXIdA",
+    "verifier": "Riot",
+    "verification": "https://www.youtube.com/watch?v=mhYRW_yNtWA",
     "percentToQualify": "100",
     "password": "No Copy",
     "records": [
       {
             "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=s19tz3tqrYE",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
