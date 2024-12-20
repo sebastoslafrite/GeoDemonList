@@ -1,0 +1,18 @@
+{
+    "id": 41409797,
+    "name": "Undergound",
+    "author": "Metalface221",
+    "creators": ["Metalface221"],
+    "verifier": "Metalface221",
+    "verification": "https://www.youtube.com/watch?v=BJP3DUjbwzY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+            {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
