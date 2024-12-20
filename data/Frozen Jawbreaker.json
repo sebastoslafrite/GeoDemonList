@@ -1,0 +1,18 @@
+{
+    "id": 12070173,
+    "name": "Frozen Jawbreaker",
+    "author": "ItzMika",
+    "creators": ["ItzMika", "Clover"],
+    "verifier": "ItzMika",
+    "verification": "https://www.youtube.com/watch?v=6LdTzW1sm6M",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
