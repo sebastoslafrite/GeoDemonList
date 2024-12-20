@@ -1,0 +1,18 @@
+{
+    "id": 61531210,
+    "name": "Hyper Paradox",
+    "author": "ItsHybrid",
+    "creators": ["ItsHybrid", "Temp", "Avati", "ViralDL", "El3ctr0", "SyQual", "Realvet", "Connected"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=ucmMMjeTOjc",
+    "percentToQualify": "100",
+    "password": "251326",
+    "records": [
+            {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
