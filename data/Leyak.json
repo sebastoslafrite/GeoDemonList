@@ -3,18 +3,12 @@
     "name": "Leyak",
     "author": "EnZore",
     "creators": ["EnZore", "Marwec", "ilrell"],
-    "verifier": "LittleD3m0",
-    "verification": "https://www.youtube.com/watch?v=VEGhiRqFPe4",
+    "verifier": "BoldStep",
+    "verification": "https://www.youtube.com/watch?v=Tj0ONgI_2i8",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-      {
-            "user": "darthmauve",
-            "link": "https://www.youtube.com/watch?v=br27jHMeCJI",
-            "percent": 100,
-            "hz": 240
-        },
-        {
+           {
             "user": "GeoLunatic",
             "link": "https://www.youtube.com/watch?v=VMluo75u1TY",
             "percent": 100,
