@@ -1,0 +1,18 @@
+{
+    "id": 26441161,
+    "name": "Flat Major",
+    "author": "EndLevel",
+    "creators": ["EndLevel", "Metalface221", "Visionary", "Acharne"],
+    "verifier": "EndLevel",
+    "verification": "https://www.youtube.com/watch?v=lqTSXQjCwTM",
+    "percentToQualify": "100",
+    "password": "789123",
+    "records": [
+       {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
