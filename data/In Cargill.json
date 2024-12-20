@@ -1,0 +1,18 @@
+{
+    "id": 72449577,
+    "name": "In Cargill",
+    "author": "LP44",
+    "creators": ["LP44"],
+    "verifier": "SleyGD",
+    "verification": "https://www.youtube.com/watch?v=KWaF2uxRIRE&t=22s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
