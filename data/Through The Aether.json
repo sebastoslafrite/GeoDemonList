@@ -1,0 +1,18 @@
+{
+    "id": 81748963,
+    "name": "Through The Aether",
+    "author": "BibbyDib111",
+    "creators": ["BibbyDib111"],
+    "verifier": "BibbyDib111",
+    "verification": "https://www.youtube.com/watch?v=tH8Gr2ktrFQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
