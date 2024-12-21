@@ -1,0 +1,18 @@
+{
+    "id": 110711884,
+    "name": "Terraphobia",
+    "author": "Jakalope",
+    "creators": ["Jakalope"],
+    "verifier": "Jakalope",
+    "verification": "https://www.youtube.com/watch?v=mhF6pFjFXeU&t=0s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
