@@ -1,0 +1,18 @@
+{
+    "id": 112614077,
+    "name": "Purgatory",
+    "author": "Bosnow",
+    "creators": ["Bosnow"],
+    "verifier": "Bosnow",
+    "verification": "https://www.youtube.com/watch?v=nkis0EHwwR4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+          {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
