@@ -1,0 +1,18 @@
+{
+    "id": 63500550,
+    "name": "free level",
+    "author": "heatherhayes",
+    "creators": ["heatherhayes"],
+    "verifier": "heatherhayes",
+    "verification": "https://www.youtube.com/watch?v=rhBmLTRCDYE",
+    "percentToQualify": "100",
+    "password": "Free to Copy",
+    "records": [
+      {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
