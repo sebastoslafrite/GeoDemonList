@@ -1,0 +1,18 @@
+{
+    "id": 8723596,
+    "name": "Sine Wavs",
+    "author": "Dorami",
+    "creators": ["Dorami"],
+    "verifier": "Dorami",
+    "verification": "https://www.youtube.com/watch?v=Zbtcny6Jyk4",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
