@@ -2,15 +2,15 @@
     "id": 82595578,
     "name": "My Time",
     "author": "Blueskiii",
-    "creators": ["Blueskiii"],
-    "verifier": "GeoLunatic",
-    "verification": "https://www.youtube.com/watch?v=OC1JJHBFz2E",
+    "creators": ["Blueskiii", "ItsMeUltimate", "TheRealXFuture", "LViper", "rZary", "Yoonsr", "Magpipe", "shebam", "ThunderDarkness", "ElMatoSWAG", "Itzabunny", "SpeziX", "mordroc7", "bli", "oaf", "Sneze", "Phalexx", "Ensanity"],
+    "verifier": "s3batr0nic",
+    "verification": "https://www.youtube.com/watch?v=DJ_nlWr3oXs",
     "percentToQualify": "100",
     "password": "Free to Copy",
     "records": [
       {
-            "user": "doggogoesyoink",
-            "link": "https://www.youtube.com/watch?v=MNk5jZi1724",
+            "user": "GeoLunatic",
+            "link": "none",
             "percent": 100,
             "hz": 240
         }
