@@ -1,0 +1,18 @@
+{
+    "id": 9653767,
+    "name": "The Four Elements",
+    "author": "Eiken",
+    "creators": ["Eiken"],
+    "verifier": "Plasmatic",
+    "verification": "https://www.youtube.com/watch?v=vs2e7HGpsV8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+           {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
