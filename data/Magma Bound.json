@@ -3,34 +3,15 @@
     "name": "Magma Bound",
     "author": "ScorchVX",
     "creators": ["ScorchVX"],
-    "verifier": "jak",
-    "verification": "https://youtu.be/aAuCaS9fn8A",
+    "verifier": "ScorchVX",
+    "verification": "https://www.youtube.com/watch?v=rbYGL36O1zc",
     "percentToQualify": "100",
     "password": "951753",
     "records": [
-  {
-            "user": "Glowst",
-            "link": "https://www.youtube.com/watch?v=jXK11mqIMGc",
-            "percent": 100,
-            "hz": 240
-        },
         {
             "user": "GeoLunatic",
-            "link": "https://www.youtube.com/watch?v=bZ8gHi_7iFA",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "darthmauve",
             "link": "none",
             "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "LittleD3m0",
-            "link": "https://www.youtube.com/watch?v=psfyHbEb9y8",
-            "percent": 100,
-            "hz": 360
-        }
+            "hz": 240
     ] 
 }
