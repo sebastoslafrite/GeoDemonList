@@ -13,12 +13,6 @@
             "link": "none",
             "percent": 100,
             "hz": 240
-        },
-        {
-            "user": "Kapinapi",
-            "link": "none",
-            "percent": 100,
-            "hz": 240
         }
     ]
 }
