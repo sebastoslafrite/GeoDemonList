@@ -1,0 +1,24 @@
+{
+    "id": 12568393,
+    "name": "Ultra Circles",
+    "author": "iIiRulasiIi",
+    "creators": ["iIiRulasiIi"],
+    "verifier": "iIiRulasiIi",
+    "verification": "https://www.youtube.com/watch?v=Hp9hJLYB4ws",
+    "percentToQualify": 100,
+    "password": "24525",
+    "records": [
+        {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+       },
+        {
+            "user": "Kapinapi",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
