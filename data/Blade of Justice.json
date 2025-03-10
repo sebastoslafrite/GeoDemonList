@@ -1,0 +1,18 @@
+{
+    "id": 42631377,
+    "name": "Blade of Justice",
+    "author": "",
+    "creators": [""],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": "100",
+    "password": "040400",
+    "records": [
+      {
+            "user": "GeoLunatic",
+            "link": "none",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
